@@ -18,6 +18,15 @@
 
 ---
 
+## 📸 Screenshots
+
+<div align="center">
+  <img src="public/screenshots/app_screenshot_1.png" width="800" alt="AI Style Studio Main Interface" />
+  <p><em>The premium AI Style Studio interface featuring the AI Style Agent and Visual Studio.</em></p>
+</div>
+
+---
+
 ## 📖 Table of Contents
 - [🌟 Motivation](#-motivation)
 - [✨ Key Features](#-key-features)
