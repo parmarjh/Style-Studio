@@ -116,8 +116,8 @@ AI Style Studio is built with a modular and scalable architecture:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/[INSERT_GITHUB_USERNAME]/[INSERT_REPO_NAME].git
-   cd [INSERT_REPO_NAME]
+   git clone https://github.com/parmarjh/Style-Studio/tree/main.git
+   cd [Style-Studio]
    ```
 
 2. **Install dependencies:**
