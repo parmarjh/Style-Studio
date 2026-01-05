@@ -1,0 +1,10 @@
+
+{
+  "name": "AI Style Agent & Virtual Try-On",
+  "description": "A premium AI-powered fashion assistant that provides style recommendations, simulates virtual try-ons, and offers real-time voice styling advice.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
